@@ -166,5 +166,3 @@ function log(message: Error | string) {
 ```
 
 Run `npm start` again to see the complete check running (hopefully with no errors) and server starting up again in watch mode.
-
-[Next: debugging Node.js apps](05-debugging.md)
